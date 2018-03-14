@@ -1,6 +1,5 @@
 # Data-visualisation
 
-Data is beautiful.
 Here are some examples of the data visualisations I created for recent projects. 
 These plots were created using Python (matplotlib), Matlab, and R.
 
